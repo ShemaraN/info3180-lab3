@@ -1,3 +1,27 @@
 body {
     padding-top: 5rem;
 }
+
+.form-control{
+    width: 300px;
+}
+
+.textbox{
+    width: 350px;
+    height: 100px;
+    
+
+}
+
+.divider{
+    border-style:solid;
+    border-width:1.5px;
+}
+
+.required{
+    color:red;
+}
+
+.top{
+    font-weight:bold;
+}
